@@ -1,0 +1,1 @@
+  min_giunta::main::1::x={ 5, 4, nil }

@@ -1,0 +1,1 @@
+  min_rotated_ellipse::main::1::x={ 0, 0, 0, 0 }

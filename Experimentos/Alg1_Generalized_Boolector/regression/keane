@@ -1,0 +1,5 @@
+fobj = (sin2(x1-x2)*sin2(x1-x2)*sin2(x1+x2)*sin2(x1-x2))/sqrt2(x1*x1 + x2*x2);
+-10
+10
+-10
+10

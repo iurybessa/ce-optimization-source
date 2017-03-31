@@ -1,0 +1,15 @@
+
+
+###########################
+\/\/\/\/\/\/\/\/\/\/\/\/\/
+./experimentos.sh: linha 110: 30855 Falha de segmentação  (imagem do núcleo gravada) ./mini $func $fi --float
+
+real	0m0.075s
+user	0m0.000s
+sys	0m0.000s
+
+Function branin_RCOS f_i:65
+
+
+###########################
+\/\/\/\/\/\/\/\/\/\/\/\/\/

@@ -1,0 +1,1 @@
+  min_styblinski_tang::main::1::X={ -2.903000e+0f, -2.904000e+0f }

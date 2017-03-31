@@ -1,0 +1,19 @@
+ESBMC version 3.1 64-bit x86_64 linux
+file min_quadratic.c: Parsing
+Converting
+Type-checking min_quadratic
+Generating GOTO Program
+GOTO program creation time: 0.050s
+GOTO program processing time: 0.003s
+Starting Bounded Model Checking
+Unwinding loop 2 iteration 1 file min_quadratic.c line 18 function main
+Unwinding loop 2 iteration 2 file min_quadratic.c line 18 function main
+Unwinding loop 3 iteration 1 file min_quadratic.c line 23 function main
+Unwinding loop 3 iteration 2 file min_quadratic.c line 23 function main
+Symex completed in: 0.001s
+size of program expression: 36 assignments
+Slicing time: 0.000s
+Generated 35 VCC(s), 1 remaining after simplification
+Encoding remaining VCC(s) using bit-vector arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Z3 v4.5.0

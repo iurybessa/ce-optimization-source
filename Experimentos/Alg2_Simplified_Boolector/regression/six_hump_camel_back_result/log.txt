@@ -1,0 +1,10 @@
+ESBMC version 3.1 64-bit x86_64 linux
+file min_six_hump_camel_back.c: Parsing
+Converting
+Type-checking min_six_hump_camel_back
+file min_six_hump_camel_back.c line 15 function main: operand of unary * `1' is not a pointer
+CONVERSION ERROR
+
+real	0m0.052s
+user	0m0.048s
+sys	0m0.005s

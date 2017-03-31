@@ -1,0 +1,26 @@
+ESBMC version 3.1 64-bit x86_64 linux
+file min_matyas.c: Parsing
+Converting
+Type-checking min_matyas
+Generating GOTO Program
+GOTO program creation time: 0.056s
+GOTO program processing time: 0.004s
+Starting Bounded Model Checking
+Unwinding loop 2 iteration 1 file min_matyas.c line 17 function main
+Unwinding loop 2 iteration 2 file min_matyas.c line 17 function main
+Unwinding loop 3 iteration 1 file min_matyas.c line 22 function main
+Unwinding loop 3 iteration 2 file min_matyas.c line 22 function main
+Symex completed in: 0.001s
+size of program expression: 36 assignments
+Slicing time: 0.000s
+Generated 35 VCC(s), 1 remaining after simplification
+Encoding remaining VCC(s) using bit-vector arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 2.2.0
+Runtime decision procedure: 25.788s
+VERIFICATION SUCCESSFUL
+BMC program time: 25.789s
+
+real	0m25.857s
+user	0m25.800s
+sys	0m0.044s

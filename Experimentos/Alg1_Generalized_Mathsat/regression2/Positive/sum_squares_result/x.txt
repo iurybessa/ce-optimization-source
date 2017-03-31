@@ -1,0 +1,1 @@
+  min_sum_squares::main::1::x={ 0, 0, 0, 0 }

@@ -1,0 +1,1 @@
+  min_matyas::main::1::x={ 0, 0, nil }

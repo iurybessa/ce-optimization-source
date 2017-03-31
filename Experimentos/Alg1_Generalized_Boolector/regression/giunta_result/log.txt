@@ -1,0 +1,19 @@
+ESBMC version 3.1 64-bit x86_64 linux
+file min_giunta.c: Parsing
+Converting
+Type-checking min_giunta
+Generating GOTO Program
+GOTO program creation time: 0.051s
+GOTO program processing time: 0.004s
+Starting Bounded Model Checking
+Unwinding loop 2 iteration 1 file min_giunta.c line 18 function main
+Unwinding loop 2 iteration 2 file min_giunta.c line 18 function main
+Unwinding loop 3 iteration 1 file min_giunta.c line 23 function main
+Unwinding loop 3 iteration 2 file min_giunta.c line 23 function main
+Symex completed in: 0.012s
+size of program expression: 292 assignments
+Slicing time: 0.002s
+Generated 35 VCC(s), 1 remaining after simplification
+Encoding remaining VCC(s) using bit-vector arithmetic
+Encoding to solver time: 0.004s
+Solving with solver Boolector 2.2.0

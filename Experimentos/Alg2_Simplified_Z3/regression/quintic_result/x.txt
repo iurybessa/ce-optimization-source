@@ -1,0 +1,1 @@
+  min_quintic::main::1::x={ 2, 0, nil }

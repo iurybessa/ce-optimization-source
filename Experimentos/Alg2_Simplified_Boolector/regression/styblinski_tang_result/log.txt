@@ -1,0 +1,27 @@
+ESBMC version 3.1 64-bit x86_64 linux
+file min_styblinski_tang.c: Parsing
+Converting
+Type-checking min_styblinski_tang
+file min_styblinski_tang.c line 19 function main: function `c::nondet_double' is not declared
+Generating GOTO Program
+GOTO program creation time: 0.058s
+GOTO program processing time: 0.003s
+Starting Bounded Model Checking
+Unwinding loop 2 iteration 1 file min_styblinski_tang.c line 17 function main
+Unwinding loop 2 iteration 2 file min_styblinski_tang.c line 17 function main
+Unwinding loop 3 iteration 1 file min_styblinski_tang.c line 22 function main
+Unwinding loop 3 iteration 2 file min_styblinski_tang.c line 22 function main
+Symex completed in: 0.001s
+size of program expression: 35 assignments
+Slicing time: 0.000s
+Generated 31 VCC(s), 1 remaining after simplification
+Encoding remaining VCC(s) using bit-vector arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 2.2.0
+Runtime decision procedure: 0.245s
+VERIFICATION SUCCESSFUL
+BMC program time: 0.247s
+
+real	0m0.314s
+user	0m0.308s
+sys	0m0.000s

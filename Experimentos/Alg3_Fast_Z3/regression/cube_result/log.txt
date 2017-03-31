@@ -1,0 +1,7 @@
+ESBMC version 3.1 64-bit x86_64 linux
+file min_cube.c: Parsing
+Converting
+Type-checking min_cube
+file min_cube.c line 19 function main: function `c::nondet_double' is not declared
+Generating GOTO Program
+GOTO program creation time: 0.062s

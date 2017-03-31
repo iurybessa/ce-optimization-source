@@ -1,0 +1,26 @@
+ESBMC version 3.1 64-bit x86_64 linux
+file min_chen_bird.c: Parsing
+Converting
+Type-checking min_chen_bird
+Generating GOTO Program
+GOTO program creation time: 0.094s
+GOTO program processing time: 0.007s
+Starting Bounded Model Checking
+Unwinding loop 2 iteration 1 file min_chen_bird.c line 18 function main
+Unwinding loop 2 iteration 2 file min_chen_bird.c line 18 function main
+Unwinding loop 3 iteration 1 file min_chen_bird.c line 23 function main
+Unwinding loop 3 iteration 2 file min_chen_bird.c line 23 function main
+Symex completed in: 0.003s
+size of program expression: 38 assignments
+Slicing time: 0.000s
+Generated 37 VCC(s), 3 remaining after simplification
+Encoding remaining VCC(s) using bit-vector arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 2.2.0
+Runtime decision procedure: 589.883s
+VERIFICATION SUCCESSFUL
+BMC program time: 589.887s
+
+real	9m50.000s
+user	9m49.801s
+sys	0m0.454s

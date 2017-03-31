@@ -1,0 +1,1 @@
+  min_booth::main::1::x={ 1, 3, nil }

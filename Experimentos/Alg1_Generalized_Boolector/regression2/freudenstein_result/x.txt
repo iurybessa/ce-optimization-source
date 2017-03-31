@@ -1,0 +1,1 @@
+  min_freudenstein::main::1::x={ -5, -5, nil }

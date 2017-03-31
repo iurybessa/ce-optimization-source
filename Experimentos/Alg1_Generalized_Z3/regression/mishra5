@@ -1,0 +1,5 @@
+fobj = (sin2(cos2( x1 + cos2(x2))*cos2( x1 + cos2(x2)))*sin2(cos2( x1 + cos2(x2))*cos2( x1 + cos2(x2))) + cos2(sin2(x1) + sin2(x2))*cos2(sin2(x1) + sin2(x2)) + x1)*(sin2(cos2( x1 + cos2(x2))*cos2( x1 + cos2(x2)))*sin2(cos2( x1 + cos2(x2))*cos2( x1 + cos2(x2))) + cos2(sin2(x1) + sin2(x2))*cos2(sin2(x1) + sin2(x2)) + x1) + 0.01*(x1+x2);
+-10
+10
+-10
+10

@@ -1,0 +1,22 @@
+ESBMC version 3.1 64-bit x86_64 linux
+file min_wayburn_seader_2.c: Parsing
+Converting
+Type-checking min_wayburn_seader_2
+Generating GOTO Program
+GOTO program creation time: 0.079s
+GOTO program processing time: 0.006s
+Starting Bounded Model Checking
+Unwinding loop 2 iteration 1 file min_wayburn_seader_2.c line 18 function main
+Unwinding loop 2 iteration 2 file min_wayburn_seader_2.c line 18 function main
+Unwinding loop 3 iteration 1 file min_wayburn_seader_2.c line 23 function main
+Unwinding loop 3 iteration 2 file min_wayburn_seader_2.c line 23 function main
+Symex completed in: 0.003s
+size of program expression: 36 assignments
+Slicing time: 0.000s
+Generated 34 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+BMC program time: 0.003s
+
+real	0m0.095s
+user	0m0.082s
+sys	0m0.015s
